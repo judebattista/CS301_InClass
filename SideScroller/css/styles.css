@@ -1,0 +1,22 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(55, 55, 55);
+}
+
+h1 {
+    color: red;
+}
+
+p {
+    color: rgb(0, 200, 0);
+}
+
+div.quote {
+    color: rgb(0, 200, 0);
+    font-style: italic;
+    margin: 5px 0px 5px 0px;
+}
+
+div.description {
+    color: rgb(0, 200, 0);
+}
